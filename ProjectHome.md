@@ -1,0 +1,1 @@
+Effort to make a big list of wpa passwords and other types.
